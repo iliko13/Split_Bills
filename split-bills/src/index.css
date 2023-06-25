@@ -73,7 +73,7 @@ body {
 
 .selected,
 .sidebar li:hover {
-  background-color: #646860;
+  background-color: #dec7de;
 }
 
 .green {
@@ -116,7 +116,7 @@ label::first-letter {
 }
 
 .button {
-  background-color: black;
+  background-color: #a94bc5;
   color: white;
   border: none;
   padding: 0.8rem 1.2rem;
@@ -127,7 +127,7 @@ label::first-letter {
 }
 
 .button:hover {
-  background-color: rgb(58, 58, 58);
+  background-color: #891e91;
 }
 
 form .button {
@@ -150,7 +150,7 @@ select {
   font-size: 1.5rem;
   padding: 0.7rem;
   text-align: center;
-  border: X;
+  border: 1px solid #e2c6ea;
   border-radius: 4px;
   transition: 0.3s;
 }
@@ -158,5 +158,5 @@ select {
 input:focus,
 select:focus {
   outline: none;
-  border: x;
+  border: 1px solid #a36ab1;
 }
